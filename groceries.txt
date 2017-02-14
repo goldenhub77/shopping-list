@@ -4,5 +4,7 @@
 * 4 apples
 * surge protextor
 * forks
-* soda
 * napkins
+* soda
+* beer
+* towels
